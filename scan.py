@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
                             
-# Author	 : Hacker Anurag Gupta
+# Author	 : Anurag Gupta
 # Tool 		 : Web Scanner
 # Usage		 : ./scan.py example.com (or) python san.py example.com
 # 
